@@ -4,14 +4,16 @@ body
     margin:0;
     font: normal 14px/20px Arial, Helvetica, sans-serif;
     height:100%;
-    background-color: #fff;"
-
+    background-color: #fff;
+    background-image:url(duck.jpg);
 }
 
 div 
 {
     height:auto;
     min-height:100%
+    text-align: center;
+    width:800px;
 }
 
 h1
