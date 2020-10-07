@@ -12,9 +12,8 @@ body
 
 h1
 {
-    margin:0;
     font-size:150px;
-    line-height:150px;
+    line-height:100px;
     font-weight:bold;
     text-align: center;
 }
@@ -22,15 +21,15 @@ h1
 h2
 {
     font-size:100px;
-    line-height:50px;
+    line-height:20px;
     font-weight:bold;
     text-align: center;
 }
 
 .button {
-    background-color: #1c87c9;
+    background-color: #fff;
     border: none;
-    color: white;
+    color: grey;
     padding: 20px 34px;
     text-align: center;
     text-decoration: none;
