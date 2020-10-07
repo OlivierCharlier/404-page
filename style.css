@@ -7,7 +7,7 @@ body
     background-color: #fff;
     background-image:url(duck.jpg);
     background-size: cover;
-    align: center;
+    box-align: center;
 }
 
 div 
@@ -15,7 +15,6 @@ div
     height:auto;
     min-height:100%
     text-align: center;
-    width:800px;
 }
 
 h1
