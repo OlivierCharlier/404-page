@@ -18,10 +18,11 @@ div
 
 h1
 {
-    margin:0;
+    margin:10;
     font-size:150px;
     line-height:150px;
     font-weight:bold;
+    text-align: center;
 }
 
 h2
